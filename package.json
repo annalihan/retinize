@@ -1,6 +1,6 @@
 {
   "name": "retinize",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "retinize images",
   "main": "retinize.js",
   "scripts": {
