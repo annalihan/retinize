@@ -15,7 +15,7 @@ var options = {
     flagsOut: { 1: '', 2: '@2x', 4: '@4x' },
     extensions: ['jpg', 'jpeg', 'png'],
     roundUp: true,
-    basePath: '/statics/images'
+    basePath: '/images'
 };
 
 function run() {
