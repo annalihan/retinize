@@ -9,6 +9,7 @@ retinize.js utilizing gm to automate down-scaling of images to target lower reso
 1. Install [GraphicsMagick](https://github.com/aheckmann/gm)  for Node (follow instructions).
 2.  Install retinize `npm install --save-dev retinize`
 3.  Modify your `package.json`, regisiter task `retinize`.
+
 > "scripts": {
     "retinize": "node node_modules/retinize/retinize.js \`pwd\`"
   }
